@@ -1,0 +1,84 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    position: relative;
+    top: 0%;
+}
+.navbar {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 0 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-top: -900px;
+    margin-left: 350px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: grey;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.nav-links .active {
+    color: #6FBBD1;
+    font-weight: bold;
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+.contact{
+    position: absolute;
+    width: 239px;
+    height: 60px;
+    top: 85px;
+    left: 1408px;
+    border: 1px;
+}
+.head4 {
+    position: absolute;
+    top: 282px;
+    left: 80px;
+}
+.para4 {
+    position: absolute;
+    top: 400px;
+    left: 80px;
+}
+.doctor3{
+    position: absolute;
+    top: 250px;
+    left: 986px;
+}
+.banner img{
+    position: absolute;
+    width: 1728px;
+    width: 1728px;
+    top: 692px;
+}
+/* footer css */
+.footer5 img{
+    position: absolute;
+    width: 1728px;
+    height: 686px;
+    top: 2534px;
+}

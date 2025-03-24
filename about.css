@@ -1,0 +1,110 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    position: relative;
+    top: 0%;
+}
+.navbar {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 0 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-top: -900px;
+    margin-left: 350px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: grey;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.nav-links .active {
+    color: #6FBBD1;
+    font-weight: bold;
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+.contact{
+    position: absolute;
+    width: 239px;
+    height: 60px;
+    top: 85px;
+    left: 1408px;
+    border: 1px;
+}
+.head1{
+    position: absolute;
+    top: 282px;
+    left: 80px;
+}
+.para1{
+    position: absolute;
+    width: 151px;
+    height: 23px;
+    top: 400px;
+    left: 80px;
+}
+.doctor2{
+    position: absolute;
+    width: 815px;
+    height: 442px;
+    top: 250px;
+    left: 1001px;
+}
+.story img{
+    position: absolute;
+    width: 1481px;
+    height: 540px;
+    top: 792px;
+    left: 80px;
+    border-radius: 35px;
+}
+.img img{
+    position: absolute;
+    width: 1728px;
+    height: 694px;
+    top: 1482px;
+}
+.certificate img{
+    position: absolute;
+    width: 1568px;
+    height: 482px;
+    top: 2326px;
+    left: 80px;
+    border: 1px;
+}
+.achieve img{
+    position: absolute;
+    width: 1522px;
+    height: 625px;
+    top: 2958px;
+    left: 80px;
+}
+.footer2 img{
+    position: absolute;
+    width: 1728px;
+    height: 1464px;
+    top: 3733px;
+}

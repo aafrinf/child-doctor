@@ -46,13 +46,6 @@
     top: 50px;
     left: 80px;
 }
-.bar{
-    position: absolute;
-    width: 951px;
-    height: 31px;
-    top: 99px;
-    left: 389px;
-}
 .contact{
     position: absolute;
     width: 239px;
@@ -61,104 +54,75 @@
     left: 1408px;
     border: 1px;
 }
-.head{
+.head5 {
     position: absolute;
-    width: 853px;
-    height: 212px;
     top: 282px;
     left: 80px;
 }
-.baloon{
+.para5{
     position: absolute;
-    width: 108.81px;
-    height: 208px;
-    top: 284px;
-    left: 879px;
-}
-.para{
-    position: absolute;
-    width: 709px;
-    height: 46px;
-    top: 514px;
+    top: 400px;
     left: 80px;
 }
-.button{
+.doctor4{
     position: absolute;
-    width: 469px;
-    height: 70px;
-    top: 600px;
+    top: 250px;
+    left: 986px;
+}
+/* picture css */
+.pic1{
+    position: absolute;
+    width: 373.18px;
+    height: 281px;
+    top: 792px;
     left: 80px;
-    border-radius: 35px;
+    border-radius: 30px;
 }
-.doctor{
+.pic2{
     position: absolute;
-    width: 609.72px;
-    height: 853px;
-    top: 264px;
-    left: 1092px;
+    width: 373.18px;
+    height: 281px;
+    top: 1098.85px;
+    left: 80px;
+    border-radius: 30px;
 }
-.bg{
+.pic3{
     position: absolute;
-    width: 860px;
-    height: 684px;
-    top: 433px;
-    left: 1039px;
+    width: 373.18px;
+    height: 160.35px;
+    top: 792px;
+    left: 480.82px;
+    border-radius: 30px;
 }
-.two{
+.pic4{
     position: absolute;
-    width: 247.92px;
-    height: 200px;
-    top: 817px;
-    left: 97px;
+    width: 373.18px;
+    height: 402px;
+    top: 977.72px;
+    left: 481px;
+    border-radius: 30px;
 }
-.middle{
+.pic5{
+    position: absolute;
+    width: 774px;
+    height: 588px;
+    top: 792px;
+    left: 874px;
+    border-radius: 30px;
+}
+.pic6{
     position: absolute;
     width: 1568px;
-    height: 200px;
-    top: 1017px;
+    height: 588.32px;
+    top: 1406px;
     left: 80px;
+    border-radius: 30px;
 }
-/* about appointments css */
-.about img{
-    position: absolute;
-   
-    top: 1417px;
-    left: 80px;
-}
-/* special css */
-.special img{
-    position: absolute;
-    width: 1822px;
-    height: 1073px;
-    top: 2458px;
-}
-/* process css */
-.process{
-    position: absolute;
-    width: 1568px;
-    height: 1400px;
-    top: 3596px;
-    left: 80px;
-}
-/* booking css */
-.booking img{
-    position: absolute;
-    width: 1728px;
-    height: 650px;
-    top: 5146px;
-}
-/* testimonial css */
-.test img{
-    position: absolute;
-    width: 1568px;
-    height: 510px;
-    top: 5946px;
-    left: 80px;
-}
-/* footer css */
-.footer{
+/* footyer css */
+.footer6 img{
     position: absolute;
     width: 1728px;
     height: 686px;
-    top: 6606px;
+    top: 2144px;
+
 }

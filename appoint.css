@@ -1,0 +1,93 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    position: relative;
+    top: 0%;
+}
+.navbar {
+    position: absolute;
+    width: 1728px;
+    height: 1117px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    padding: 0 20px;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-top: -900px;
+    margin-left: 350px;
+}
+
+.nav-links li {
+    display: inline;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: grey;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+.nav-links .active {
+    color: #6FBBD1;
+    font-weight: bold;
+}
+.logo{
+    position: absolute;
+    top: 50px;
+    left: 80px;
+}
+.contact{
+    position: absolute;
+    width: 239px;
+    height: 60px;
+    top: 85px;
+    left: 1408px;
+    border: 1px;
+}
+.head3 {
+    position: absolute;
+    top: 282px;
+    left: 80px;
+}
+.para3 {
+    position: absolute;
+    top: 400px;
+    left: 80px;
+}
+.doctor3{
+    position: absolute;
+    top: 250px;
+    left: 986px;
+}
+/* get css */
+.get{
+    position: absolute;
+    width: 784px;
+    height: 819px;
+    top: 834px;
+    left: 472px;
+}
+/* map css */
+.map img{
+    position: absolute;
+    width: 1728px;
+    height: 480px;
+    top: 1803px;
+    left: -20px;
+}
+.footer4 img{
+    position: absolute;
+    width: 1728px;
+    height: 686px;
+    top:2415px;
+}
