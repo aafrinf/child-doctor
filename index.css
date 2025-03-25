@@ -19,7 +19,7 @@
 .nav-links {
     list-style: none;
     display: flex;
-    gap: -10px;
+    gap: 10px;
     margin-top: -900px;
     margin-left: 270px;
 }
@@ -42,7 +42,7 @@
 }
 .logo1{
     position: absolute;
-    top: 50px;
+    top: 70px;
     left: 50px;
     width: 100px;
     height: 70px;
@@ -129,7 +129,7 @@
 /* special css */
 .special img{
     position: absolute;
-    width: 1280px;
+    width: 1370px;
     height: 960px;
     top: 1900px;
 }
@@ -144,7 +144,7 @@
 /* booking css */
 .booking img{
     position: absolute;
-    width: 1280px;
+    width: 1370px;
     height:580px;
     top: 4050px;
 }
