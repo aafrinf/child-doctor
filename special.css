@@ -4,8 +4,7 @@
     box-sizing: border-box;
     position: relative;
     top: 0%;
-    width: 100vw;
-    font-family: "gilroy",sans-serif;
+    width: 100%;
 }
 .navbar {
     position: absolute;
@@ -51,26 +50,25 @@
     left: 100px;
     top: -20px;
 }
-.head1{
+.head51{
     position: absolute;
     width: 270px;
     top: 200px;
     left: 50px;
-
 }
-.para1{
+.para51{
     position: absolute;
-    width: 70px;
+    width: 80px;
     top: 280px;
     left: 50px;
 }
-.doctor2{
+.doctor51{
     position: absolute;
     width: 415px;
     top: 200px;
     left: 600px;
 }
-.story h2{
+.heal h2{
     position: absolute;
     top: 500px;
     left: 50px;
@@ -81,7 +79,7 @@
     color: #000000;
     font-weight: normal;
 }
-.story p{
+.heal p{
     position: absolute;
     top: 590px;
     left: 50px;
@@ -92,45 +90,64 @@
     color: grey;
     font-weight: 500;
 }
-.button {
-    padding: 12px 20px;
-    border-radius: 25px;
-    font-size: 16px;
-    font-weight: bold;
-    text-decoration: none;
-    display: inline-block;
-    text-align: center;
-    cursor: pointer;
-}
-.primary {
-    background-color: #89c3d0;
-    color: white;
-    border: none;
-    width: 200px;
-    height: 50px;
+.spl-img img{
+    position: absolute;
+    width: 1020px;
     top: 700px;
-    left: 50px;
 }
-.img img{
+.list h3{
     position: absolute;
-    width: 1030px;
-    top: 750px;
-}
-.twin img{
-    position: absolute;
-    width: 1000px;
-    top: 1250px;
-}
-.certificate img{
-    position: absolute;
-  width: 950px;
-    top: 1750px;
+    top: 1200px;
     left: 80px;
-    border: 1px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 100%;
+    letter-spacing: 0%;
 }
- 
-.footer2 img{
+.list ul  {
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+    font-weight: 300px;
+    font-size: 20px;
+    line-height: 35px;
+    letter-spacing: 0%;
+    justify-content: space-evenly;
+    color: grey;
+}
+.custom-list li::marker{
+    color: #6FBBD1;
+}
+.p1{
+    position: absolute;
+    top: 1150px;
+    left: 400px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 0%;
+}
+.p2{
+    position: absolute;
+    top: 1300px;
+    left: 400px;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 35px;
+    letter-spacing: 0%;
+}
+.vaccency img{
+    position: absolute;
+    top: 1500px;
+}
+.faq img{
+    position: absolute;
+    top: 1700px;
+    left: 30px;
+}
+.footer7 img{
     position: absolute;
     width: 1030px;
-    top: 2550px;
+    top: 2400px;
 }
+
